@@ -1,5 +1,5 @@
 import React from "react";
-import css from './app.css'
+import css from './App.css'
 import { useState } from "react";
 import bulbon from "./assests/bulb-on.png";
 import bulboff from "./assests/bulb-off.png";
